@@ -1,7 +1,7 @@
 ## Week 10: CommunityHub API
 
 ## Author
-- Name: Essen Yken
+- Name: ESTHER WANJIRU NJOROGE
 - GitHub: @essyken
 - Date: May 12, 2026
 
